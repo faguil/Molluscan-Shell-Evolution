@@ -6,7 +6,7 @@ This GitHub repository provides the supplementary data referenced in the publica
 
 All files are publicly available and can be used for further research or other applications. However, if you utilize these resources in your work, we kindly request that you cite our original publication.
 
-**Co-Option and De Novo Gene Evolution Underlie Molluscan Shell Diversity.** Felipe Aguilera, Carmel McDougall and Bernard M. Degnan. *Molecular Biology and Evolution* **34**:779-792 (2017). https://academic.oup.com/mbe/article/34/4/779/2813225.
+**Co-Option and De Novo Gene Evolution Underlie Molluscan Shell Diversity.** Felipe Aguilera, Carmel McDougall and Bernard M. Degnan. *Molecular Biology and Evolution* **34**:779-792 (2017). https://doi.org/10.1093/molbev/msw294.
 
 **Abstract**
 
