@@ -38,3 +38,20 @@ The files in this repository are ready for use. Simply click on the file, and yo
 - **Figure S10.** Phylogenetic analysis of glycoside hydrolase family 18 domain-containing proteins.
 - **Figure S11.** Phylogenetic analyses of polysaccharide deacetylase domain-containing proteins and chitin-binding domain-containing proteins.
 - **Figure S12.** Changes in the prediction of gene families using different MCL inflation values.
+
+[02-Supplementary-Tables.xlsx](https://github.com/faguil/Molluscan-Shell-Evolution/blob/main/02-Supplementary-Tables.xlsx) contains supplementary tables used in this study.
+
+- **Table S1.** Results of BLASTP comparisons between shell proteomes and mantle secretomes.
+- **Table S2.** Summary of the conchiferan phylostratigraphic analysis.
+- **Table S3.** Rate of gene family gain and loss across conchiferan evolution.
+- **Table S4.** Enrichment of protein domains present in newly gained gene families over conchiferan evolution.
+- **Table S5.** Over-represented GO terms (biological process and molecular function categories) across conchiferan evolution.
+- **Table S6.** Functional annotation of gene families across conchiferan evolution.
+- **Table S7.** List of lineage- and species-specific gene families across conchiferan evolution.
+- **Table S8.** List of gene families with repetive low-complexity domains (RLCDs) across conchiferan evolution.
+- **Table S9.** Over-representation of InterPro domains in each phylostrata for each species.
+- **Table S10.** Conchiferan mantle sampling used in this study.
+- **Table S11.**  Sequence statistics of the de novo assemblies.
+- **Table S12.** Clustering, filtering and prediction of open reading frames (ORFs).
+- **Table S13.** Contents of the databases used in the BLASTP and TBLASTN sequence similarity searches for each target species.
+- **Table S14.** Taxon stability index, leaf stability index, and percentage of missing data for phylogenomic inference of molluscan relationships.
