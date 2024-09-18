@@ -1,6 +1,6 @@
 # Co-Option and De Novo Gene Evolution Underlie Molluscan Shell Diversity - Supplementary Data
 
-PThis GitHub repository provides the supplementary data referenced in the publication cited below.
+This GitHub repository provides the supplementary data referenced in the publication cited below.
 
 ## How to use and cite these files 
 
